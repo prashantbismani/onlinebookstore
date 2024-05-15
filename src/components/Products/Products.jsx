@@ -3,7 +3,7 @@ import { Grid, InputAdornment, Input } from "@material-ui/core";
 import SearchIcon from "@material-ui/icons/Search";
 import Product from "./Product/Product.js";
 import useStyles from "./styles";
-import logo1 from "../../assets/Bookshop.gif";
+import logo1 from "../../assets/Bookshop.jpeg";
 import scrollImg from "../../assets/scroll.gif";
 import "../ProductView/style.css";
 import { Link } from "react-router-dom";
